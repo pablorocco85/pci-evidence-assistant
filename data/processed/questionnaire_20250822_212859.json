@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "filename": "dummy.xlsx",
+    "processed_at": "2025-08-22T21:28:59Z",
+    "sheet_name": "Sheet1"
+  },
+  "evidence_requests": [
+    {
+      "id": 1,
+      "name": "First Request",
+      "text": "First description",
+      "additional_context": "Context 1",
+      "requirement_refs": [
+        "1.2.3"
+      ],
+      "normalized_refs": [
+        "1.2.3"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Second Request",
+      "text": "Second description",
+      "additional_context": "Context 2",
+      "requirement_refs": [
+        "1.2.3"
+      ],
+      "normalized_refs": [
+        "1.2.3"
+      ]
+    }
+  ]
+}

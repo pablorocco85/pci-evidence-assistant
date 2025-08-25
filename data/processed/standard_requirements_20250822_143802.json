@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "filename": "PCI-DSS-v4_0_1.pdf",
+    "processed_at": "2025-08-22T14:37:43Z",
+    "total_pages": 397
+  },
+  "requirements": {
+    "4.0.1": {
+      "raw_requirement": "4.0.1",
+      "requirement_number": "4.0.1",
+      "normalized_requirement": "4.0.1",
+      "requirement_parts": {
+        "major": 4,
+        "minor": 0,
+        "sub": 1,
+        "part": null
+      },
+      "valid_requirement": true,
+      "sections": {
+        "Defined Approach Requirements": "June 2024"
+      }
+    }
+  }
+}

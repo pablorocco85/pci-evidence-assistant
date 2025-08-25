@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "filename": "dummy.xlsx",
+    "processed_at": "2025-08-22T21:27:42Z",
+    "sheet_name": "Sheet1"
+  },
+  "evidence_requests": [
+    {
+      "id": 1,
+      "name": "Firewall Rules",
+      "text": "Review firewall rules",
+      "additional_context": "Check all rules",
+      "requirement_refs": [
+        "1.2.3"
+      ],
+      "normalized_refs": [
+        "1.2.3"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Security Policies",
+      "text": "Review security policies",
+      "additional_context": "Including all updates",
+      "requirement_refs": [
+        "12.3.1",
+        "12.5.1"
+      ],
+      "normalized_refs": [
+        "12.3.1",
+        "12.5.1"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Custom Controls",
+      "text": "Review custom controls",
+      "additional_context": "For service providers",
+      "requirement_refs": [
+        "a1.2.3"
+      ],
+      "normalized_refs": [
+        "a1.1.2.3"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Valid Entry",
+      "text": "Should be processed",
+      "additional_context": "Enterprise security",
+      "requirement_refs": [
+        "es1.2"
+      ],
+      "normalized_refs": [
+        "es1.2"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Testing Procedure",
+      "text": "Review testing procedures",
+      "additional_context": "Including evidence",
+      "requirement_refs": [
+        "1.2.3.a"
+      ],
+      "normalized_refs": [
+        "1.2.3.a"
+      ]
+    }
+  ]
+}

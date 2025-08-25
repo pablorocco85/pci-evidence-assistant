@@ -1,0 +1,815 @@
+{
+  "metadata": {
+    "filename": "Prioritized-Approach-Tool-For-PCI-DSS-v4_0_1.xlsx",
+    "processed_at": "2025-08-22T13:41:21Z",
+    "sheet_name": "Prioritized Approach Milestones"
+  },
+  "requirements": {
+    "1.1processesandmechanismsforinstallingandmaintainingnetworksecuritycontrolsaredefinedandunderstood.": {
+      "raw_requirement": "1.1 Processes and mechanisms for installing and maintaining network security controls are defined and understood.",
+      "requirement_text": "1.1 Processes and mechanisms for installing and maintaining network security controls are defined and understood.",
+      "normalized_requirement": "1.1processesandmechanismsforinstallingandmaintainingnetworksecuritycontrolsaredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 1,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 4
+    },
+    "1.2networksecuritycontrols(nscs)areconfiguredandmaintained.": {
+      "raw_requirement": "1.2 Network security controls (NSCs) are configured and maintained.",
+      "requirement_text": "1.2 Network security controls (NSCs) are configured and maintained.",
+      "normalized_requirement": "1.2networksecuritycontrols(nscs)areconfiguredandmaintained.",
+      "requirement_parts": {
+        "major": 1,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 7
+    },
+    "1.3networkaccesstoandfromthecardholderdataenvironmentisrestricted.": {
+      "raw_requirement": "1.3 Network access to and from the cardholder data environment is restricted.",
+      "requirement_text": "1.3 Network access to and from the cardholder data environment is restricted.",
+      "normalized_requirement": "1.3networkaccesstoandfromthecardholderdataenvironmentisrestricted.",
+      "requirement_parts": {
+        "major": 1,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 16
+    },
+    "1.4networkconnectionsbetweentrustedanduntrustednetworksarecontrolled.": {
+      "raw_requirement": "1.4 Network connections between trusted and untrusted networks are controlled.",
+      "requirement_text": "1.4 Network connections between trusted and untrusted networks are controlled.",
+      "normalized_requirement": "1.4networkconnectionsbetweentrustedanduntrustednetworksarecontrolled.",
+      "requirement_parts": {
+        "major": 1,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 20
+    },
+    "1.5riskstothecdefromcomputingdevicesthatareabletoconnecttobothuntrustednetworksandthecdearemitigated.": {
+      "raw_requirement": "1.5 Risks to the CDE from computing devices that are able to connect to both untrusted networks and the CDE are mitigated.",
+      "requirement_text": "1.5 Risks to the CDE from computing devices that are able to connect to both untrusted networks and the CDE are mitigated.",
+      "normalized_requirement": "1.5riskstothecdefromcomputingdevicesthatareabletoconnecttobothuntrustednetworksandthecdearemitigated.",
+      "requirement_parts": {
+        "major": 1,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 26
+    },
+    "2.1processesandmechanismsforapplyingsecureconfigurationstoallsystemcomponentsaredefinedandunderstood.": {
+      "raw_requirement": "2.1 Processes and mechanisms for applying secure configurations to all system components are defined and understood.",
+      "requirement_text": "2.1 Processes and mechanisms for applying secure configurations to all system components are defined and understood.",
+      "normalized_requirement": "2.1processesandmechanismsforapplyingsecureconfigurationstoallsystemcomponentsaredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 2,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 29
+    },
+    "2.2systemcomponentsareconfiguredandmanagedsecurely.": {
+      "raw_requirement": "2.2 System components are configured and managed securely.",
+      "requirement_text": "2.2 System components are configured and managed securely.",
+      "normalized_requirement": "2.2systemcomponentsareconfiguredandmanagedsecurely.",
+      "requirement_parts": {
+        "major": 2,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 32
+    },
+    "2.3wirelessenvironmentsareconfiguredandmanagedsecurely.": {
+      "raw_requirement": "2.3 Wireless environments are configured and managed securely.",
+      "requirement_text": "2.3 Wireless environments are configured and managed securely.",
+      "normalized_requirement": "2.3wirelessenvironmentsareconfiguredandmanagedsecurely.",
+      "requirement_parts": {
+        "major": 2,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 40
+    },
+    "3.1processesandmechanismsforperformingactivitiesinrequirement3aredefinedandunderstood.": {
+      "raw_requirement": "3.1 Processes and mechanisms for performing activities in Requirement 3 are defined and understood.",
+      "requirement_text": "3.1 Processes and mechanisms for performing activities in Requirement 3 are defined and understood.",
+      "normalized_requirement": "3.1processesandmechanismsforperformingactivitiesinrequirement3aredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 44
+    },
+    "3.2storageofaccountdataiskepttoaminimum.": {
+      "raw_requirement": "3.2 Storage of account data is kept to a minimum.",
+      "requirement_text": "3.2 Storage of account data is kept to a minimum.",
+      "normalized_requirement": "3.2storageofaccountdataiskepttoaminimum.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 47
+    },
+    "3.3sensitiveauthenticationdataisnotstoredafterauthorization.": {
+      "raw_requirement": "3.3 Sensitive authentication data is not stored after authorization.",
+      "requirement_text": "3.3 Sensitive authentication data is not stored after authorization.",
+      "normalized_requirement": "3.3sensitiveauthenticationdataisnotstoredafterauthorization.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 49
+    },
+    "3.4accesstodisplaysoffullpanandabilitytocopypanarerestricted.": {
+      "raw_requirement": "3.4 Access to displays of full PAN and ability to copy PAN are restricted.",
+      "requirement_text": "3.4 Access to displays of full PAN and ability to copy PAN are restricted.",
+      "normalized_requirement": "3.4accesstodisplaysoffullpanandabilitytocopypanarerestricted.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 56
+    },
+    "3.5panissecuredwhereveritisstored.": {
+      "raw_requirement": "3.5 PAN is secured wherever it is stored.",
+      "requirement_text": "3.5 PAN is secured wherever it is stored.",
+      "normalized_requirement": "3.5panissecuredwhereveritisstored.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 59
+    },
+    "3.6cryptographickeysusedtoprotectstoredaccountdataaresecured.": {
+      "raw_requirement": "3.6 Cryptographic keys used to protect stored account data are secured.",
+      "requirement_text": "3.6 Cryptographic keys used to protect stored account data are secured.",
+      "normalized_requirement": "3.6cryptographickeysusedtoprotectstoredaccountdataaresecured.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 6,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 64
+    },
+    "3.7wherecryptographyisusedtoprotectstoredaccountdata,keymanagementprocessesandprocedurescoveringallaspectsofthekeylifecyclearedefinedandimplemented.": {
+      "raw_requirement": "3.7 Where cryptography is used to protect stored account data, key management processes and procedures covering all aspects of the key lifecycle are defined and implemented.",
+      "requirement_text": "3.7 Where cryptography is used to protect stored account data, key management processes and procedures covering all aspects of the key lifecycle are defined and implemented.",
+      "normalized_requirement": "3.7wherecryptographyisusedtoprotectstoredaccountdata,keymanagementprocessesandprocedurescoveringallaspectsofthekeylifecyclearedefinedandimplemented.",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 7,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 70
+    },
+    "4.1processesandmechanismsforperformingactivitiesinrequirement4aredefinedandunderstood.": {
+      "raw_requirement": "4.1 Processes and mechanisms for performing activities in Requirement 4 are defined and understood.",
+      "requirement_text": "4.1 Processes and mechanisms for performing activities in Requirement 4 are defined and understood.",
+      "normalized_requirement": "4.1processesandmechanismsforperformingactivitiesinrequirement4aredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 4,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 81
+    },
+    "4.2panisprotectedwithstrongcryptographyduringtransmission.": {
+      "raw_requirement": "4.2 PAN is protected with strong cryptography during transmission.",
+      "requirement_text": "4.2 PAN is protected with strong cryptography during transmission.",
+      "normalized_requirement": "4.2panisprotectedwithstrongcryptographyduringtransmission.",
+      "requirement_parts": {
+        "major": 4,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 84
+    },
+    "5.1processesandmechanismsforprotectingallsystemsandnetworksfrommalicioussoftwarearedefinedandunderstood.": {
+      "raw_requirement": "5.1 Processes and mechanisms for protecting all systems and networks from malicious software are defined and understood.",
+      "requirement_text": "5.1 Processes and mechanisms for protecting all systems and networks from malicious software are defined and understood.",
+      "normalized_requirement": "5.1processesandmechanismsforprotectingallsystemsandnetworksfrommalicioussoftwarearedefinedandunderstood.",
+      "requirement_parts": {
+        "major": 5,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 90
+    },
+    "5.2malicioussoftware(malware)isprevented,ordetectedandaddressed.": {
+      "raw_requirement": "5.2 Malicious software (malware) is prevented, or detected and addressed.",
+      "requirement_text": "5.2 Malicious software (malware) is prevented, or detected and addressed.",
+      "normalized_requirement": "5.2malicioussoftware(malware)isprevented,ordetectedandaddressed.",
+      "requirement_parts": {
+        "major": 5,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 93
+    },
+    "5.3anti-malwaremechanismsandprocessesareactive,maintained,andmonitored.": {
+      "raw_requirement": "5.3 Anti-malware mechanisms and processes are active, maintained, and monitored.",
+      "requirement_text": "5.3 Anti-malware mechanisms and processes are active, maintained, and monitored.",
+      "normalized_requirement": "5.3anti-malwaremechanismsandprocessesareactive,maintained,andmonitored.",
+      "requirement_parts": {
+        "major": 5,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 98
+    },
+    "5.4anti-phishingmechanismsprotectusersagainstphishingattacks.": {
+      "raw_requirement": "5.4 Anti-phishing mechanisms protect users against phishing attacks.",
+      "requirement_text": "5.4 Anti-phishing mechanisms protect users against phishing attacks.",
+      "normalized_requirement": "5.4anti-phishingmechanismsprotectusersagainstphishingattacks.",
+      "requirement_parts": {
+        "major": 5,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 105
+    },
+    "6.1processesandmechanismsfordevelopingandmaintainingsecuresystemsandsoftwarearedefinedandunderstood.": {
+      "raw_requirement": "6.1 Processes and mechanisms for developing and maintaining secure systems and software are defined and understood.",
+      "requirement_text": "6.1 Processes and mechanisms for developing and maintaining secure systems and software are defined and understood.",
+      "normalized_requirement": "6.1processesandmechanismsfordevelopingandmaintainingsecuresystemsandsoftwarearedefinedandunderstood.",
+      "requirement_parts": {
+        "major": 6,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 108
+    },
+    "6.2bespokeandcustomsoftwareisdevelopedsecurely.": {
+      "raw_requirement": "6.2 Bespoke and custom software is developed securely.",
+      "requirement_text": "6.2 Bespoke and custom software is developed securely.",
+      "normalized_requirement": "6.2bespokeandcustomsoftwareisdevelopedsecurely.",
+      "requirement_parts": {
+        "major": 6,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 111
+    },
+    "6.2.3bespokeandcustomsoftwareisreviewedpriortobeingreleasedintoproductionortocustomers,toidentifyandcorrectpotentialcodingvulnerabilities,asfollows:•codereviewsensurecodeisdevelopedaccordingtosecurecodingguidelines.•codereviewslookforbothexistingandemergingsoftwarevulnerabilities.•appropriatecorrectionsareimplementedpriortorelease.": {
+      "raw_requirement": "6.2.3 Bespoke and custom software is reviewed prior to being released into production or to customers, to identify and correct potential coding vulnerabilities, as follows:\n•\t Code reviews ensure code is developed according to secure coding guidelines.\n•\t Code reviews look for both existing and emerging software vulnerabilities.\n•\t Appropriate corrections are implemented prior to release.",
+      "requirement_text": "6.2.3 Bespoke and custom software is reviewed prior to being released into production or to customers, to identify and correct potential coding vulnerabilities, as follows: • Code reviews ensure code is developed according to secure coding guidelines. • Code reviews look for both existing and emerging software vulnerabilities. • Appropriate corrections are implemented prior to release.",
+      "normalized_requirement": "6.2.3bespokeandcustomsoftwareisreviewedpriortobeingreleasedintoproductionortocustomers,toidentifyandcorrectpotentialcodingvulnerabilities,asfollows:•codereviewsensurecodeisdevelopedaccordingtosecurecodingguidelines.•codereviewslookforbothexistingandemergingsoftwarevulnerabilities.•appropriatecorrectionsareimplementedpriortorelease.",
+      "requirement_parts": {
+        "major": 6,
+        "minor": 2,
+        "sub": 3,
+        "part": "•codereviewslookforbothexistingandemergingsoftwarevulnerabilities"
+      },
+      "valid_requirement": true,
+      "row_number": 114
+    },
+    "6.3securityvulnerabilitiesareidentifiedandaddressed.": {
+      "raw_requirement": "6.3 Security vulnerabilities are identified and addressed.",
+      "requirement_text": "6.3 Security vulnerabilities are identified and addressed.",
+      "normalized_requirement": "6.3securityvulnerabilitiesareidentifiedandaddressed.",
+      "requirement_parts": {
+        "major": 6,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 117
+    },
+    "6.4public-facingwebapplicationsareprotectedagainstattacks.": {
+      "raw_requirement": "6.4 Public-facing web applications are protected against attacks.",
+      "requirement_text": "6.4 Public-facing web applications are protected against attacks.",
+      "normalized_requirement": "6.4public-facingwebapplicationsareprotectedagainstattacks.",
+      "requirement_parts": {
+        "major": 6,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 121
+    },
+    "6.5changestoallsystemcomponentsaremanagedsecurely.": {
+      "raw_requirement": "6.5 Changes to all system components are managed securely.",
+      "requirement_text": "6.5 Changes to all system components are managed securely.",
+      "normalized_requirement": "6.5changestoallsystemcomponentsaremanagedsecurely.",
+      "requirement_parts": {
+        "major": 6,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 125
+    },
+    "7.1processesandmechanismsforrestrictingaccesstosystemcomponentsandcardholderdatabybusinessneedtoknowaredefinedandunderstood.": {
+      "raw_requirement": "7.1 Processes and mechanisms for restricting access to system components and cardholder data by business need to know are defined and understood.",
+      "requirement_text": "7.1 Processes and mechanisms for restricting access to system components and cardholder data by business need to know are defined and understood.",
+      "normalized_requirement": "7.1processesandmechanismsforrestrictingaccesstosystemcomponentsandcardholderdatabybusinessneedtoknowaredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 7,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 133
+    },
+    "7.3logicalaccesstosystemcomponentsanddataismanagedviaanaccesscontrolsystem(s).": {
+      "raw_requirement": "7.3 Logical access to system components and data is managed via an access control system(s).",
+      "requirement_text": "7.3 Logical access to system components and data is managed via an access control system(s).",
+      "normalized_requirement": "7.3logicalaccesstosystemcomponentsanddataismanagedviaanaccesscontrolsystem(s).",
+      "requirement_parts": {
+        "major": 7,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 144
+    },
+    "8.2useridentificationandrelatedaccountsforusersandadministratorsarestrictlymanagedthroughoutanaccount’slifecycle.": {
+      "raw_requirement": "8.2 User identification and related accounts for users and administrators are strictly managed throughout an account’s lifecycle.",
+      "requirement_text": "8.2 User identification and related accounts for users and administrators are strictly managed throughout an account’s lifecycle.",
+      "normalized_requirement": "8.2useridentificationandrelatedaccountsforusersandadministratorsarestrictlymanagedthroughoutanaccount’slifecycle.",
+      "requirement_parts": {
+        "major": 8,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 152
+    },
+    "8.3strongauthenticationforusersandadministratorsisestablishedandmanaged.": {
+      "raw_requirement": "8.3 Strong authentication for users and administrators is established and managed.",
+      "requirement_text": "8.3 Strong authentication for users and administrators is established and managed.",
+      "normalized_requirement": "8.3strongauthenticationforusersandadministratorsisestablishedandmanaged.",
+      "requirement_parts": {
+        "major": 8,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 161
+    },
+    "8.4multi-factorauthentication(mfa)systemsareconfiguredtopreventmisuse.": {
+      "raw_requirement": "8.4 Multi-factor authentication (MFA) systems are configured to prevent misuse.",
+      "requirement_text": "8.4 Multi-factor authentication (MFA) systems are configured to prevent misuse.",
+      "normalized_requirement": "8.4multi-factorauthentication(mfa)systemsareconfiguredtopreventmisuse.",
+      "requirement_parts": {
+        "major": 8,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 174
+    },
+    "8.5multi-factorauthenticationisimplementedtosecureaccesstothecde.": {
+      "raw_requirement": "8.5 Multi-factor authentication is implemented to secure access to the CDE.",
+      "requirement_text": "8.5 Multi-factor authentication is implemented to secure access to the CDE.",
+      "normalized_requirement": "8.5multi-factorauthenticationisimplementedtosecureaccesstothecde.",
+      "requirement_parts": {
+        "major": 8,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 178
+    },
+    "8.6useofapplicationandsystemaccountsandassociatedauthenticationfactorsarestrictlymanaged.": {
+      "raw_requirement": "8.6 Use of application and system accounts and associated authentication factors are strictly managed.",
+      "requirement_text": "8.6 Use of application and system accounts and associated authentication factors are strictly managed.",
+      "normalized_requirement": "8.6useofapplicationandsystemaccountsandassociatedauthenticationfactorsarestrictlymanaged.",
+      "requirement_parts": {
+        "major": 8,
+        "minor": 6,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 180
+    },
+    "9.1processesandmechanismsforperformingactivitiesinrequirement9aredefinedandunderstood.": {
+      "raw_requirement": "9.1 Processes and mechanisms for performing activities in Requirement 9 are defined and understood.",
+      "requirement_text": "9.1 Processes and mechanisms for performing activities in Requirement 9 are defined and understood.",
+      "normalized_requirement": "9.1processesandmechanismsforperformingactivitiesinrequirement9aredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 9,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 185
+    },
+    "9.2physicalaccesscontrolsmanageentryintothecardholderdataenvironment.": {
+      "raw_requirement": "9.2 Physical access controls manage entry into the cardholder data environment.",
+      "requirement_text": "9.2 Physical access controls manage entry into the cardholder data environment.",
+      "normalized_requirement": "9.2physicalaccesscontrolsmanageentryintothecardholderdataenvironment.",
+      "requirement_parts": {
+        "major": 9,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 188
+    },
+    "9.3physicalaccesstothecardholderdataenvironmentforpersonnelandvisitorsisauthorizedandmanaged.": {
+      "raw_requirement": "9.3 Physical access to the cardholder data environment for personnel and visitors is authorized and managed.",
+      "requirement_text": "9.3 Physical access to the cardholder data environment for personnel and visitors is authorized and managed.",
+      "normalized_requirement": "9.3physicalaccesstothecardholderdataenvironmentforpersonnelandvisitorsisauthorizedandmanaged.",
+      "requirement_parts": {
+        "major": 9,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 194
+    },
+    "9.4mediawithcardholderdataissecurelystored,accessed,distributed,anddestroyed.": {
+      "raw_requirement": "9.4 Media with cardholder data is securely stored, accessed, distributed, and destroyed.",
+      "requirement_text": "9.4 Media with cardholder data is securely stored, accessed, distributed, and destroyed.",
+      "normalized_requirement": "9.4mediawithcardholderdataissecurelystored,accessed,distributed,anddestroyed.",
+      "requirement_parts": {
+        "major": 9,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 200
+    },
+    "9.5point-of-interaction(poi)devicesareprotectedfromtamperingandunauthorizedsubstitution.": {
+      "raw_requirement": "9.5 Point-of-interaction (POI) devices are protected from tampering and unauthorized substitution.",
+      "requirement_text": "9.5 Point-of-interaction (POI) devices are protected from tampering and unauthorized substitution.",
+      "normalized_requirement": "9.5point-of-interaction(poi)devicesareprotectedfromtamperingandunauthorizedsubstitution.",
+      "requirement_parts": {
+        "major": 9,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 211
+    },
+    "10.1processesandmechanismsforperformingactivitiesinrequirement10aredefinedandunderstood.": {
+      "raw_requirement": "10.1 Processes and mechanisms for performing activities in Requirement 10 are defined and understood.",
+      "requirement_text": "10.1 Processes and mechanisms for performing activities in Requirement 10 are defined and understood.",
+      "normalized_requirement": "10.1processesandmechanismsforperformingactivitiesinrequirement10aredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 218
+    },
+    "10.2auditlogsareimplementedtosupportthedetectionofanomaliesandsuspiciousactivity,andtheforensicanalysisofevents.": {
+      "raw_requirement": "10.2 Audit logs are implemented to support the detection of anomalies and suspicious activity, and the forensic analysis of events.",
+      "requirement_text": "10.2 Audit logs are implemented to support the detection of anomalies and suspicious activity, and the forensic analysis of events.",
+      "normalized_requirement": "10.2auditlogsareimplementedtosupportthedetectionofanomaliesandsuspiciousactivity,andtheforensicanalysisofevents.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 221
+    },
+    "10.3auditlogsareprotectedfromdestructionandunauthorizedmodifications.": {
+      "raw_requirement": "10.3 Audit logs are protected from destruction and unauthorized modifications.",
+      "requirement_text": "10.3 Audit logs are protected from destruction and unauthorized modifications.",
+      "normalized_requirement": "10.3auditlogsareprotectedfromdestructionandunauthorizedmodifications.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 231
+    },
+    "10.4auditlogsarereviewedtoidentifyanomaliesorsuspiciousactivity.": {
+      "raw_requirement": "10.4 Audit logs are reviewed to identify anomalies or suspicious activity.",
+      "requirement_text": "10.4 Audit logs are reviewed to identify anomalies or suspicious activity.",
+      "normalized_requirement": "10.4auditlogsarereviewedtoidentifyanomaliesorsuspiciousactivity.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 236
+    },
+    "10.5auditloghistoryisretainedandavailableforanalysis.": {
+      "raw_requirement": "10.5 Audit log history is retained and available for analysis.",
+      "requirement_text": "10.5 Audit log history is retained and available for analysis.",
+      "normalized_requirement": "10.5auditloghistoryisretainedandavailableforanalysis.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 242
+    },
+    "10.6time-synchronizationmechanismssupportconsistenttimesettingsacrossallsystems.": {
+      "raw_requirement": "10.6 Time-synchronization mechanisms support consistent time settings across all systems.",
+      "requirement_text": "10.6 Time-synchronization mechanisms support consistent time settings across all systems.",
+      "normalized_requirement": "10.6time-synchronizationmechanismssupportconsistenttimesettingsacrossallsystems.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 6,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 244
+    },
+    "10.7failuresofcriticalsecuritycontrolsystemsaredetected,reported,andrespondedtopromptly.": {
+      "raw_requirement": "10.7 Failures of critical security control systems are detected, reported, and responded to promptly.",
+      "requirement_text": "10.7 Failures of critical security control systems are detected, reported, and responded to promptly.",
+      "normalized_requirement": "10.7failuresofcriticalsecuritycontrolsystemsaredetected,reported,andrespondedtopromptly.",
+      "requirement_parts": {
+        "major": 10,
+        "minor": 7,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 248
+    },
+    "11.1processesandmechanismsforperformingactivitiesinrequirement11aredefinedandunderstood.": {
+      "raw_requirement": "11.1 Processes and mechanisms for performing activities in Requirement 11 are defined and understood.",
+      "requirement_text": "11.1 Processes and mechanisms for performing activities in Requirement 11 are defined and understood.",
+      "normalized_requirement": "11.1processesandmechanismsforperformingactivitiesinrequirement11aredefinedandunderstood.",
+      "requirement_parts": {
+        "major": 11,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 253
+    },
+    "11.2wirelessaccesspointsareidentifiedandmonitored,andunauthorizedwirelessaccesspointsareaddressed.": {
+      "raw_requirement": "11.2 Wireless access points are identified and monitored, and unauthorized wireless access points are addressed.",
+      "requirement_text": "11.2 Wireless access points are identified and monitored, and unauthorized wireless access points are addressed.",
+      "normalized_requirement": "11.2wirelessaccesspointsareidentifiedandmonitored,andunauthorizedwirelessaccesspointsareaddressed.",
+      "requirement_parts": {
+        "major": 11,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 256
+    },
+    "11.3externalandinternalvulnerabilitiesareregularlyidentified,prioritized,andaddressed.": {
+      "raw_requirement": "11.3 External and internal vulnerabilities are regularly identified, prioritized, and addressed.",
+      "requirement_text": "11.3 External and internal vulnerabilities are regularly identified, prioritized, and addressed.",
+      "normalized_requirement": "11.3externalandinternalvulnerabilitiesareregularlyidentified,prioritized,andaddressed.",
+      "requirement_parts": {
+        "major": 11,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 259
+    },
+    "11.4externalandinternalpenetrationtestingisregularlyperformed,andexploitablevulnerabilitiesandsecurityweaknessesarecorrected.": {
+      "raw_requirement": "11.4 External and internal penetration testing is regularly performed, and exploitable vulnerabilities and security weaknesses are corrected.",
+      "requirement_text": "11.4 External and internal penetration testing is regularly performed, and exploitable vulnerabilities and security weaknesses are corrected.",
+      "normalized_requirement": "11.4externalandinternalpenetrationtestingisregularlyperformed,andexploitablevulnerabilitiesandsecurityweaknessesarecorrected.",
+      "requirement_parts": {
+        "major": 11,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 266
+    },
+    "11.5networkintrusionsandunexpectedfilechangesaredetectedandrespondedto.": {
+      "raw_requirement": "11.5 Network intrusions and unexpected file changes are detected and responded to.",
+      "requirement_text": "11.5 Network intrusions and unexpected file changes are detected and responded to.",
+      "normalized_requirement": "11.5networkintrusionsandunexpectedfilechangesaredetectedandrespondedto.",
+      "requirement_parts": {
+        "major": 11,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 274
+    },
+    "11.6unauthorizedchangesonpaymentpagesaredetectedandrespondedto.": {
+      "raw_requirement": "11.6 Unauthorized changes on payment pages are detected and responded to.",
+      "requirement_text": "11.6 Unauthorized changes on payment pages are detected and responded to.",
+      "normalized_requirement": "11.6unauthorizedchangesonpaymentpagesaredetectedandrespondedto.",
+      "requirement_parts": {
+        "major": 11,
+        "minor": 6,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 278
+    },
+    "12.1acomprehensiveinformationsecuritypolicythatgovernsandprovidesdirectionforprotectionoftheentity’sinformationassetsisknownandcurrent.": {
+      "raw_requirement": "12.1 A comprehensive information security policy that governs and provides direction for protection of the entity’s information assets is known and current.",
+      "requirement_text": "12.1 A comprehensive information security policy that governs and provides direction for protection of the entity’s information assets is known and current.",
+      "normalized_requirement": "12.1acomprehensiveinformationsecuritypolicythatgovernsandprovidesdirectionforprotectionoftheentity’sinformationassetsisknownandcurrent.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 1,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 281
+    },
+    "12.2acceptableusepoliciesforend-usertechnologiesaredefinedandimplemented.": {
+      "raw_requirement": "12.2 Acceptable use policies for end-user technologies are defined and implemented.",
+      "requirement_text": "12.2 Acceptable use policies for end-user technologies are defined and implemented.",
+      "normalized_requirement": "12.2acceptableusepoliciesforend-usertechnologiesaredefinedandimplemented.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 2,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 286
+    },
+    "12.3targetedriskstothecardholderdataenvironmentareformallyidentified,evaluated,andmanaged.": {
+      "raw_requirement": "12.3 Targeted risks to the cardholder data environment are formally identified, evaluated, and managed.",
+      "requirement_text": "12.3 Targeted risks to the cardholder data environment are formally identified, evaluated, and managed.",
+      "normalized_requirement": "12.3targetedriskstothecardholderdataenvironmentareformallyidentified,evaluated,andmanaged.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 3,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 288
+    },
+    "12.4pcidsscomplianceismanaged.": {
+      "raw_requirement": "12.4 PCI DSS compliance is managed.",
+      "requirement_text": "12.4 PCI DSS compliance is managed.",
+      "normalized_requirement": "12.4pcidsscomplianceismanaged.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 4,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 293
+    },
+    "12.5pcidssscopeisdocumentedandvalidated.": {
+      "raw_requirement": "12.5 PCI DSS scope is documented and validated.",
+      "requirement_text": "12.5 PCI DSS scope is documented and validated.",
+      "normalized_requirement": "12.5pcidssscopeisdocumentedandvalidated.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 5,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 297
+    },
+    "12.6securityawarenesseducationisanongoingactivity": {
+      "raw_requirement": "12.6 Security awareness education is an ongoing activity",
+      "requirement_text": "12.6 Security awareness education is an ongoing activity",
+      "normalized_requirement": "12.6securityawarenesseducationisanongoingactivity",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 6,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 302
+    },
+    "12.7personnelarescreenedtoreducerisksfrominsiderthreats.": {
+      "raw_requirement": "12.7 Personnel are screened to reduce risks from insider threats.",
+      "requirement_text": "12.7 Personnel are screened to reduce risks from insider threats.",
+      "normalized_requirement": "12.7personnelarescreenedtoreducerisksfrominsiderthreats.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 7,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 308
+    },
+    "12.8risktoinformationassetsassociatedwiththird-partyserviceprovider(tpsp)relationshipsismanaged.": {
+      "raw_requirement": "12.8 Risk to information assets associated with third-party service provider (TPSP) relationships is managed.",
+      "requirement_text": "12.8 Risk to information assets associated with third-party service provider (TPSP) relationships is managed.",
+      "normalized_requirement": "12.8risktoinformationassetsassociatedwiththird-partyserviceprovider(tpsp)relationshipsismanaged.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 8,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 310
+    },
+    "12.9third-partyserviceproviders(tpsps)supporttheircustomers’pcidsscompliance.": {
+      "raw_requirement": "12.9 Third-party service providers (TPSPs) support their customers’ PCI DSS compliance.",
+      "requirement_text": "12.9 Third-party service providers (TPSPs) support their customers’ PCI DSS compliance.",
+      "normalized_requirement": "12.9third-partyserviceproviders(tpsps)supporttheircustomers’pcidsscompliance.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 9,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 316
+    },
+    "12.10suspectedandconfirmedsecurityincidentsthatcouldimpactthecdearerespondedtoimmediately.": {
+      "raw_requirement": "12.10 Suspected and confirmed security incidents that could impact the CDE are responded to immediately.",
+      "requirement_text": "12.10 Suspected and confirmed security incidents that could impact the CDE are responded to immediately.",
+      "normalized_requirement": "12.10suspectedandconfirmedsecurityincidentsthatcouldimpactthecdearerespondedtoimmediately.",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 10,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "row_number": 319
+    }
+  }
+}

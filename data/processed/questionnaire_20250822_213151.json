@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "filename": "dummy.xlsx",
+    "processed_at": "2025-08-22T21:31:51Z",
+    "sheet_name": "Sheet1"
+  },
+  "evidence_requests": [
+    {
+      "id": 2,
+      "name": "Invalid Format",
+      "text": "Should be ignored",
+      "additional_context": "Bad format",
+      "requirement_refs": [
+        "1.2.x"
+      ],
+      "normalized_refs": [
+        "1.2.x"
+      ]
+    }
+  ]
+}

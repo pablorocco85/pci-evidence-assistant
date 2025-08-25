@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "filename": "dummy.xlsx",
+    "processed_at": "2025-08-22T21:44:12Z",
+    "sheet_name": "Prioritized Approach Milestones",
+    "total_milestone_requirements": 1
+  },
+  "requirements": {
+    "12": {
+      "raw_requirement": "12",
+      "requirement_number": "12",
+      "requirement_text": "Incomplete Requirement",
+      "normalized_requirement": "12",
+      "requirement_parts": {
+        "major": 12,
+        "minor": null,
+        "sub": null,
+        "part": null
+      },
+      "valid_requirement": true,
+      "milestone": null,
+      "applicability_notes": null,
+      "sub_requirements": null
+    }
+  }
+}

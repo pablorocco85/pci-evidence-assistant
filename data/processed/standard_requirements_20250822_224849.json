@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "filename": "dummy.pdf",
+    "processed_at": "2025-08-22T22:48:49Z",
+    "total_pages": 3
+  },
+  "requirements": {
+    "1.2.3": "#<PCIEvidence::Models::PCIRequirement:0x000000010079cd08>",
+    "12.5.1": "#<PCIEvidence::Models::PCIRequirement:0x000000010079c628>",
+    "a1.2.3": "#<PCIEvidence::Models::PCIRequirement:0x000000010079bae8>"
+  }
+}

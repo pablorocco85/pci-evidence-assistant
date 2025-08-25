@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "filename": "dummy.xlsx",
+    "processed_at": "2025-08-22T21:50:30Z",
+    "sheet_name": "Prioritized Approach Milestones"
+  },
+  "requirements": {
+    "1.2.3": {
+      "raw_requirement": "1.2.3",
+      "requirement_number": "1.2.3",
+      "requirement_text": "Configure firewall rules",
+      "normalized_requirement": "1.2.3",
+      "requirement_parts": {
+        "major": 1,
+        "minor": 2,
+        "sub": 3,
+        "procedure": null
+      },
+      "valid_requirement": true,
+      "milestone": 2,
+      "applicability_notes": null,
+      "sub_requirements": null
+    },
+    "12.5.1": {
+      "raw_requirement": "12.5.1",
+      "requirement_number": "12.5.1",
+      "requirement_text": "Define security policies",
+      "normalized_requirement": "12.5.1",
+      "requirement_parts": {
+        "major": 12,
+        "minor": 5,
+        "sub": 1,
+        "procedure": null
+      },
+      "valid_requirement": true,
+      "milestone": 3,
+      "applicability_notes": null,
+      "sub_requirements": [
+        {
+          "number": "12.5.1.a",
+          "text": "Document security policies"
+        },
+        {
+          "number": "12.5.1.b",
+          "text": "Review security policies"
+        }
+      ]
+    },
+    "a1.1.2.3": {
+      "raw_requirement": "A1.2.3",
+      "requirement_number": "A1.2.3",
+      "requirement_text": "Configure service provider controls",
+      "normalized_requirement": "a1.1.2.3",
+      "requirement_parts": {
+        "appendix": 1,
+        "major": 1,
+        "minor": 1,
+        "sub": 2,
+        "procedure": "3"
+      },
+      "valid_requirement": true,
+      "milestone": 4,
+      "applicability_notes": null,
+      "sub_requirements": null
+    },
+    "2.1.1": {
+      "raw_requirement": "2.1.1",
+      "requirement_number": "2.1.1",
+      "requirement_text": "Configure secure settings",
+      "normalized_requirement": "2.1.1",
+      "requirement_parts": {
+        "major": 2,
+        "minor": 1,
+        "sub": 1,
+        "procedure": null
+      },
+      "valid_requirement": true,
+      "milestone": 1,
+      "applicability_notes": null,
+      "sub_requirements": null
+    },
+    "3.4.1": {
+      "raw_requirement": "3.4.1",
+      "requirement_number": "3.4.1",
+      "requirement_text": "Implement encryption",
+      "normalized_requirement": "3.4.1",
+      "requirement_parts": {
+        "major": 3,
+        "minor": 4,
+        "sub": 1,
+        "procedure": null
+      },
+      "valid_requirement": true,
+      "milestone": 2,
+      "applicability_notes": [
+        "Note 1: Encryption required for sensitive data",
+        "Note 2: Key management required"
+      ],
+      "sub_requirements": null
+    }
+  }
+}

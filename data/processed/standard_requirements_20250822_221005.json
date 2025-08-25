@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "filename": "dummy.pdf",
+    "processed_at": "2025-08-22T22:10:05Z",
+    "total_pages": 3
+  },
+  "requirements": {
+    "1.2.3": {
+      "raw_requirement": "1.2.3",
+      "requirement_number": "1.2.3",
+      "defined_approach_text": "Configure firewall rules",
+      "customized_approach_text": "Ensure secure firewall configuration",
+      "applicability_notes": [
+        "Note: This is required for all firewalls"
+      ],
+      "testing_procedures": [
+        {
+          "id": "1.2.3.a",
+          "procedure": "a",
+          "text": "Examine firewall configurations"
+        },
+        {
+          "id": "1.2.3.b",
+          "procedure": "b",
+          "text": "Interview responsible personnel"
+        }
+      ],
+      "guidance_purpose": "To ensure network security",
+      "guidance_good_practices": [
+        "Follow vendor recommendations",
+        "Document all changes"
+      ],
+      "guidance_examples": [
+        "Example: Block all inbound traffic by default"
+      ],
+      "guidance_definitions": {
+        "firewall": "A network security device"
+      },
+      "valid_requirement": true
+    },
+    "12.5.1": {
+      "raw_requirement": "12.5.1",
+      "requirement_number": "12.5.1",
+      "defined_approach_text": "Define security policies",
+      "customized_approach_text": "Ensure comprehensive security policies",
+      "applicability_notes": [
+        "Note: Policies must be documented"
+      ],
+      "testing_procedures": [
+        {
+          "id": "12.5.1.a",
+          "procedure": "a",
+          "text": "Review security policies"
+        },
+        {
+          "id": "12.5.1.b",
+          "procedure": "b",
+          "text": "Interview security personnel"
+        }
+      ],
+      "guidance_purpose": "To establish security governance",
+      "guidance_good_practices": [
+        "Review annually",
+        "Get management approval"
+      ],
+      "guidance_examples": [
+        "Example: Information Security Policy template"
+      ],
+      "guidance_definitions": {
+        "policy": "A formal document"
+      },
+      "valid_requirement": true
+    },
+    "a1.1.2.3": {
+      "raw_requirement": "A1.2.3",
+      "requirement_number": "A1.2.3",
+      "defined_approach_text": "• The provider addresses and remediates suspected or confirmed security incidents and vulnerabilities according to Requirement 6.3.1.",
+      "customized_approach_text": "Ensure secure incident reporting and remediation processes for service providers",
+      "applicability_notes": [
+        "Note: This requirement applies to all service providers and their customer reporting mechanisms"
+      ],
+      "testing_procedures": [
+        {
+          "id": "A1.2.3.a",
+          "procedure": "a",
+          "text": "Examine documentation and mechanisms for security incident reporting"
+        },
+        {
+          "id": "A1.2.3.b",
+          "procedure": "b",
+          "text": "Interview personnel and observe processes for handling reported incidents"
+        }
+      ],
+      "guidance_purpose": "To ensure proper handling of security incidents by service providers",
+      "guidance_good_practices": [
+        "Establish clear incident reporting channels",
+        "Document incident response procedures",
+        "Maintain communication with customers"
+      ],
+      "guidance_examples": [
+        "Example: Secure customer portal for incident reporting",
+        "Example: Integration with customer ticketing systems"
+      ],
+      "guidance_definitions": {
+        "security incident": "An occurrence that compromises the security of cardholder data",
+        "vulnerability": "A weakness that could be exploited by a threat"
+      },
+      "valid_requirement": true
+    }
+  }
+}
